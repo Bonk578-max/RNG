@@ -1,0 +1,29 @@
+{
+    "people": [
+        { "name": "Arianna Huntley", "codestack": "ahuntley@codestack.co", "personal": "clair10022004@gmail.com" },
+        { "name": "Brandon Estrada", "codestack": "bestrada@codestack.co", "personal": "bestrada8800@gmail.com" },
+        { "name": "Brandon Van Horn", "codestack": "bvanhorn@codestack.co", "personal": "bmdvanhorn@icloud.com" },
+        { "name": "Bryce Mack", "codestack": "bmack@codestack.co", "personal": "brycewmack50@outlook.com" },
+        { "name": "Carlos Lopez", "codestack": "clopez@codestack.co", "personal": "carlos.lopez5639@gmail.com" },
+        { "name": "Daniel Herrera", "codestack": "dherrera@codestack.co", "personal": "dherr929@gmail.com" },
+        { "name": "Darcy Rose", "codestack": "drose@codestack.co", "personal": "darcy.ophelia.rose@gmail.com" },
+        { "name": "Eliasaf Gonzalez", "codestack": "N/A", "personal": "eliasafgonzalez0@gmail.com" },
+        { "name": "Gavin Tristan", "codestack": "gtristan@codestack.co", "personal": "gaqtristan@gmail.com" },
+        { "name": "Isaias Gonzalez", "codestack": "igonzalez@codestack.co", "personal": "ijgggr@gmail.com" },
+        { "name": "James Blackwell", "codestack": "jblackwell@codestack.co", "personal": "bwelljames@gmail.com" },
+        { "name": "Jesus Salgado", "codestack": "jsalgado@codestack.co", "personal": "jesussalgado9040@gmail.com" },
+        { "name": "Joseph Duarte", "codestack": "jduarte@codestack.co", "personal": "Duartemjoseph@gmail.com" },
+        { "name": "Kellen Dixon", "codestack": "kdixon@codestack.co", "personal": "kellendixon2007@gmail.com" },
+        { "name": "Lucas Guptill", "codestack": "lguptil@codestack.co", "personal": "fabledparadox@gmail.com" },
+        { "name": "Nicolas Gonzaba", "codestack": "ngonzaba@codestack.co", "personal": "NicolasGonzaba1@gmail.com" },
+        { "name": "Pallavi Pattanashetti", "codestack": "ppattanashetti@codestack.co", "personal": "Pallavi.Pattanashetti@gmail.com" },
+        { "name": "Rizwan Mehmoo", "codestack": "N/A", "personal": "rm.pkusa@gmail.com" },
+        { "name": "Sammer Saqa", "codestack": "ssaqa@codestack.co", "personal": "sammersaqa@gmail.com" },
+        { "name": "Vanessa Acuna", "codestack": "vacuna@codestack.com", "personal": "vanessa.acuna98@gmail.com" },
+        { "name": "Xavier Jacques", "codestack": "xjacques@codestack.co", "personal": "xavierjacques2442@gmail.com" },
+        { "name": "Kenneth Martinez", "codestack": "kmartinez@codestack.co", "personal": "kmartinez@sjcoe.net" },
+        { "name": "Isaiah Ferguson", "codestack": "iferguson@codestack.co", "personal": "ifergusonIII@sjcoe.net" },
+        { "name": "Jose Martinez", "codestack": "jmartinez@codestack.co", "personal": "jmartinez@sjcoe.net" },
+        { "name": "Jacob Dekok", "codestack": "jdekok@codestack.co", "personal": "jdekok@sjcoe.net" }
+    ]
+}
